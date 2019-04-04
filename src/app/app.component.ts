@@ -17,6 +17,9 @@ export class AppComponent  {
     {
     alert('Logged in')
     }
+    else {
+      alert("Invalid credentials")
+    }
    // let y= document.forms["myForm"]["fname"].value;
     //if (name.value == 'admin')
   }
